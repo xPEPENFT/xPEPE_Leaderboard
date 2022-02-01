@@ -1,4 +1,7 @@
 # xPEPE_Leaderboard
+
+Join us in our Discord [HERE](https://discord.gg/HAG5Qe79wK)
+
 Turns an image into a dynamic top 15 Leaderboard for your holders!
 (What is a Dynamic Image? Well, simply put anytime someone refreshes the page/image the data is automatically updated LIVE!)
 
